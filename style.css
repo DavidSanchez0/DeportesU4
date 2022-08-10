@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Kdam+Thmor+Pro&family=Potta+One&family=Rubik+Moonrocks&display=swap');
+
+body{
+   margin: 0;
+    padding: 0;
+  }
+  
+  h1{
+    font-family:Blaka;
+    text-align: center;
+    padding: 20px;
+  }
+
+  h2{
+    font-family:Blaka;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  hr{
+    border: 1px dotted blue ;
+  
+  }
+
+
+  .po{
+    background-color: rgb(16, 219, 152);
+  }
+
+
+
+ .cuerpo{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+ }
+
+ 
+ .xd{
+  padding-left: 6%;
+ }
+
+.text{
+    color: black;
+}
+ 
